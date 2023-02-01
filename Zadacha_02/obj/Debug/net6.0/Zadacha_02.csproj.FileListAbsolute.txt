@@ -1,0 +1,15 @@
+D:\HomeWork_4\Zadacha_02\obj\Debug\net6.0\Zadacha_02.csproj.AssemblyReference.cache
+D:\HomeWork_4\Zadacha_02\obj\Debug\net6.0\Zadacha_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork_4\Zadacha_02\obj\Debug\net6.0\Zadacha_02.AssemblyInfoInputs.cache
+D:\HomeWork_4\Zadacha_02\obj\Debug\net6.0\Zadacha_02.AssemblyInfo.cs
+D:\HomeWork_4\Zadacha_02\obj\Debug\net6.0\Zadacha_02.csproj.CoreCompileInputs.cache
+D:\HomeWork_4\Zadacha_02\bin\Debug\net6.0\Zadacha_02.exe
+D:\HomeWork_4\Zadacha_02\bin\Debug\net6.0\Zadacha_02.deps.json
+D:\HomeWork_4\Zadacha_02\bin\Debug\net6.0\Zadacha_02.runtimeconfig.json
+D:\HomeWork_4\Zadacha_02\bin\Debug\net6.0\Zadacha_02.dll
+D:\HomeWork_4\Zadacha_02\bin\Debug\net6.0\Zadacha_02.pdb
+D:\HomeWork_4\Zadacha_02\obj\Debug\net6.0\Zadacha_02.dll
+D:\HomeWork_4\Zadacha_02\obj\Debug\net6.0\refint\Zadacha_02.dll
+D:\HomeWork_4\Zadacha_02\obj\Debug\net6.0\Zadacha_02.pdb
+D:\HomeWork_4\Zadacha_02\obj\Debug\net6.0\Zadacha_02.genruntimeconfig.cache
+D:\HomeWork_4\Zadacha_02\obj\Debug\net6.0\ref\Zadacha_02.dll
